@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="17.035" height="19.469" viewBox="0 0 17.035 19.469">
+  <g id="Groupe_30" data-name="Groupe 30" transform="translate(0)">
+    <g id="Groupe_29" data-name="Groupe 29">
+      <g id="Groupe_28" data-name="Groupe 28">
+        <circle id="Ellipse_1" data-name="Ellipse 1" cx="1.141" cy="1.141" r="1.141" transform="translate(11.499 11.871)" fill="#fff"/>
+        <path id="Tracé_2063" data-name="Tracé 2063" d="M261.774,261.187a.761.761,0,0,0,.761-.761v-6.236a3.045,3.045,0,0,0-3.042-3.042h-.914v-2.683a4.564,4.564,0,0,0-9.126,0v2.683h-.911a3.045,3.045,0,0,0-3.042,3.042v6.236a3.045,3.045,0,0,0,3.042,3.042h10.951a3.045,3.045,0,0,0,3.042-3.042.761.761,0,0,0-1.521,0,1.523,1.523,0,0,1-1.521,1.521H248.542a1.523,1.523,0,0,1-1.521-1.521v-6.236a1.523,1.523,0,0,1,1.521-1.521h10.951a1.523,1.523,0,0,1,1.521,1.521v6.236A.761.761,0,0,0,261.774,261.187Zm-4.716-10.038h-6.084v-2.683a3.044,3.044,0,0,1,6.084,0Z" transform="translate(-245.5 -244)" fill="#fff"/>
+        <circle id="Ellipse_2" data-name="Ellipse 2" cx="1.141" cy="1.141" r="1.141" transform="translate(6.039 11.871)" fill="#fff"/>
+        <circle id="Ellipse_3" data-name="Ellipse 3" cx="1.141" cy="1.141" r="1.141" transform="translate(3.327 11.871)" fill="#fff"/>
+        <circle id="Ellipse_4" data-name="Ellipse 4" cx="1.141" cy="1.141" r="1.141" transform="translate(8.751 11.871)" fill="#fff"/>
+      </g>
+    </g>
+  </g>
+</svg>

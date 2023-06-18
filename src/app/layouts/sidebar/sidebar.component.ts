@@ -6,5 +6,8 @@ import { Component } from '@angular/core';
   styleUrls: ['./sidebar.component.scss']
 })
 export class SidebarComponent {
-
+  dropdown:boolean = false;
+  dropdownLakes(){
+    this.dropdown = !this.dropdown;
+  }
 }

@@ -1,0 +1,12 @@
+<svg id="Notification" xmlns="http://www.w3.org/2000/svg" width="38.107" height="46.315" viewBox="0 0 38.107 46.315">
+  <g id="Icon" transform="translate(0 16.991)">
+    <g id="Group_5" data-name="Group 5">
+      <path id="Fill_1" data-name="Fill 1" d="M22.425,15.525h2.587a2.587,2.587,0,1,1,0,5.175H2.587a2.587,2.587,0,1,1,0-5.175H5.175l.963-8.666a7.709,7.709,0,0,1,15.325,0Z" fill="#fff"/>
+      <path id="Fill_3" data-name="Fill 3" d="M3.45,0h0A3.45,3.45,0,1,1,0,3.45,3.451,3.451,0,0,1,3.45,0" transform="translate(10.35 22.425)" fill="#9a801c"/>
+    </g>
+  </g>
+  <g id="_2" data-name="2" transform="translate(16.452 0)">
+    <circle id="Oval" cx="11" cy="11" r="11" transform="translate(-0.344)" fill="#ec4c4d"/>
+    <text id="_2-2" data-name="2" transform="translate(7.656 18)" fill="#fff" font-size="13" font-family="PTSans-Bold, PT Sans" font-weight="700"><tspan x="0" y="0">2</tspan></text>
+  </g>
+</svg>

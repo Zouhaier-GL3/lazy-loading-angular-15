@@ -1,1 +1,64 @@
-<h4>sidebar works!</h4>
+<div class="fixed flex flex-col top-14 left-0 w-14 hover:w-64 md:w-64 bg-blue-50 h-full text-white transition-all duration-300 border-none z-10 sidebar">
+  <div class="overflow-y-auto overflow-x-hidden flex flex-col justify-center ">
+
+    <div class="p-6 items-center">
+      <img src="./../assets/dashboard-icons/logo.png">
+    </div>
+
+    <ul class="flex flex-col py-6 px-4 space-y-2">
+      <li>
+        <a  class="relative flex flex-center items-center py-2 text-white-600" >
+          <div  class=" px-3 py-3 w-full flex flex-center small-focus">
+              <img src="./../../../assets/dashboard-icons/dashboard.svg" class="w-5 ml-1">
+              <P class="ml-2 text-sm ">Dashboard</P>
+          </div>
+        </a>
+      </li>
+      <li>
+        <a  class="relative flex flex-center items-center py-2 text-white-600" >
+          <div  class=" px-3 py-3 w-full flex flex-center small-focus" >
+              <img src="./../assets/dashboard-icons/collectors.svg" class="w-4 ml-1">
+              <P class="ml-2 text-sm ">Collectors</P>
+          </div>
+        </a>
+      </li>
+      <li>
+        <a  class="relative flex flex-center items-center py-2 text-white-600">
+          <div  class=" px-3 py-3 w-full flex flex-center small-focus" >
+              <img src="./../../../assets/dashboard-icons/services.svg" class="w-4 ml-1">
+              <P class="ml-2 text-sm ">Feed Services</P>
+          </div>
+        </a>
+      </li>
+      <li>
+        <a  class="relative flex flex-center items-center py-2 text-white-600" (click)="dropdownLakes()">
+          <div  class=" px-3 py-3 w-full flex flex-center small-focus" [ngClass]="!dropdown ? 'small-focus' : 'big-focus'">
+              <img src="./../../../assets/dashboard-icons/lakes.svg" class="w-4 ml-1">
+              <P class="ml-2 text-sm ">Indicator Lakes</P>
+          </div>
+        </a>
+        <!-- Side navigation -->
+         <div class="text-white items-inline" *ngIf="dropdown">
+          <ul class="px-12">
+            <li><a >About</a></li>
+            <li><a >Services</a></li>
+            <li><a >Services</a></li>
+            <li><a>Clients</a></li>
+            <li><a>Contact</a></li>
+          </ul>
+         </div>
+
+      </li>
+      <li>
+        <a  class="relative flex flex-center items-center py-2 text-white-600">
+          <div  class=" px-3 py-3 w-full flex flex-center small-focus" >
+              <img src="./../../../assets/dashboard-icons/inflows.svg" class="w-4 ml-1">
+              <P class="ml-2 text-sm ">Feed Inflows</P>
+          </div>
+        </a>
+      </li>
+
+    </ul>
+
+  </div>
+</div>

@@ -4,12 +4,33 @@ body {
   margin: 0;
   font-family: "Roboto", sans-serif;
 }
-.bg-black-alt  {
-  background:#191919;
+
+.bg-blue-body{
+  background-color: #1A1A29;
 }
-.text-black-alt  {
-  color:#191919;
+.bg-blue-100{
+  background-color: #212133;
 }
-.border-black-alt {
-  border-color: #191919;
+.bg-blue-50{
+  background-color: #2A314B;
+}
+
+.small-focus{
+  background-repeat: no-repeat;
+  background-image: url('./assets/dashboard-icons/Rectangle-small.svg');
+}
+.big-focus{
+  background-repeat: no-repeat;
+  background-image: url('./assets/dashboard-icons/Rectangle-big.svg');
+}
+
+#gold-border{
+  background-repeat: no-repeat;
+  background-image: url('./assets/dashboard-icons/New.svg');
+}
+.transparent-bg{
+  background:rgba(0,0,0,0.3);
+}
+.cursor-p{
+  cursor: pointer
 }

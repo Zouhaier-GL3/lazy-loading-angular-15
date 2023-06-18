@@ -15,6 +15,7 @@ const routes: Routes = [
       module => module.LayoutsModule
     )
   },
+  { path: 'features', loadChildren: () => import('./features/features.module').then(m => m.FeaturesModule) },
 ];
 
 @NgModule({

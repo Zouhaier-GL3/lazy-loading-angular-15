@@ -1,0 +1,7 @@
+<svg id="Max" xmlns="http://www.w3.org/2000/svg" width="103.969" height="45.32" viewBox="0 0 103.969 45.32">
+  <g id="Rectangle" fill="none">
+    <path d="M16,0h87.974l-16,45.32H0Z" stroke="none"/>
+    <path d="M 16.70281219482422 1.000003814697266 L 1.41339111328125 44.32003021240234 L 87.26667785644531 44.32003021240234 L 102.5560989379883 1.000003814697266 L 16.70281219482422 1.000003814697266 M 15.99530029296875 3.814697265625e-06 L 103.9694900512695 3.814697265625e-06 L 87.97418975830078 45.32003021240234 L 0 45.32003021240234 L 15.99530029296875 3.814697265625e-06 Z" stroke="none" fill="#2475fe"/>
+  </g>
+  <text id="Max-2" data-name="Max" transform="translate(21.072 14.122)" fill="#fff" font-size="12" font-family="PTSans-Regular, PT Sans" letter-spacing="0.083em"><tspan x="-11" y="12">Max</tspan></text>
+</svg>
